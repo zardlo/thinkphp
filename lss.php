@@ -1,3 +1,3 @@
 <?php
 echo 'hello lss';
-ehco '123';
+echo '123';
